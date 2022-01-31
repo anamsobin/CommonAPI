@@ -1,15 +1,15 @@
 {
     "playstore_ads": [
         {
-            "button_text": "Details",
-            "appstore_url": "https://hellohasan.com/2020/02/17/%e0%a6%b0%e0%a6%ae%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a7%9f%e0%a6%b8%e0%a7%82%e0%a6%9a%e0%a7%80-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%a6/",
-            "playstore_url": "https://hellohasan.com/2020/02/17/%e0%a6%b0%e0%a6%ae%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a7%9f%e0%a6%b8%e0%a7%82%e0%a6%9a%e0%a7%80-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%a6/",
-            "image_url": "https://hellohasan.com/2020/02/17/%e0%a6%b0%e0%a6%ae%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%ae%e0%a7%9f%e0%a6%b8%e0%a7%82%e0%a6%9a%e0%a7%80-%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%a6/",
+            "button_text": "Download",
+            "appstore_url": "score.livebpl.bpllivescore",
+            "playstore_url": "score.livebpl.bpllivescore",
+            "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
             "enable": true,
             "id": 1,
-            "message": "জেনে নিন কয়েকটি হাদীস, কিছু টিপস এবং সাথে কিছু লেকচারের রেফারেন্স",
-            "description": "জেনে নিন কয়েকটি হাদীস, কিছু টিপস এবং সাথে কিছু লেকচারের রেফারেন্স",
-            "title": "রোজা শুরু কবে? রমজানের প্রস্তুতি কেমন হবে?"
+            "message": "Cricket has become one of the most popular game around the world. There are few countries that are playing this game but the fan following is huge. In some countries Cricked are being followed as religion and players as God. These games are played in 3 formats Test, ODI and Twenty Twenty. This app has been created for those Cricket fans who want to be updated with the Schedule, Live Score and News of all the 3 formats. You can get all the updated information about this game every time you open this app.",
+            "description": "Developer : Boolean Solution Technology",
+            "title": "Live Cricket Score"
         }
     ]
 }
