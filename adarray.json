@@ -7,18 +7,7 @@
             "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
             "enable": true,
             "id": 1,
-            "message": "Cricket has become one of the most popular game around the world. There are few countries that are playing this game but the fan following is huge. In some countries Cricked are being followed as religion and players as God. These games are played in 3 formats Test, ODI and Twenty Twenty. This app has been created for those Cricket fans who want to be updated with the Schedule, Live Score and News of all the 3 formats. You can get all the updated information about this game every time you open this app.",
-            "description": "Developer : Boolean Solution Technology",
-            "title": "Live Cricket Score"
-        },
-        {
-            "button_text": "Download",
-            "appstore_url": "score.livebpl.bpllivescore",
-            "playstore_url": "score.livebpl.bpllivescore",
-            "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
-            "enable": true,
-            "id": 1,
-            "message": "Cricket has become one of the most popular game around the world. There are few countries that are playing this game but the fan following is huge. In some countries Cricked are being followed as religion and players as God. These games are played in 3 formats Test, ODI and Twenty Twenty. This app has been created for those Cricket fans who want to be updated with the Schedule, Live Score and News of all the 3 formats. You can get all the updated information about this game every time you open this app.",
+            "message": "Live Cricket Score,Live Cricket Schedule",
             "description": "Developer : Boolean Solution Technology",
             "title": "Live Cricket Score"
         }
