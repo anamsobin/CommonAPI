@@ -10,6 +10,17 @@
             "message": "Live Cricket Score,Live Cricket Schedule",
             "description": "Developer : Boolean Solution Technology",
             "title": "Live Cricket Score"
+        },
+        {
+            "button_text": "Download",
+            "appstore_url": "com.bdcareerhelp.jobcircularpro",
+            "playstore_url": "com.bdcareerhelp.jobcircularpro",
+            "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
+            "enable": true,
+            "id": 1,
+            "message": "সকল চাকরির সার্কুলার, পরীক্ষার সময়সূচী, ফলাফল নোটিফিকেশন সহজ সাবলীলভাবে পাবেন।",
+            "description": "Developer : Boolean Solution Technology",
+            "title": "Job Circular Pro"
         }
     ]
 }
