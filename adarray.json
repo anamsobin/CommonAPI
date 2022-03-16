@@ -2,6 +2,17 @@
     "playstore_ads": [
         {
             "button_text": "Download",
+            "appstore_url": "com.booleansoft.anam.admissionresultbangladesh",
+            "playstore_url": "com.booleansoft.anam.admissionresultbangladesh",
+            "image_url": "https://play-lh.googleusercontent.com/k88eANjYzqeic1JiW8v4Z-R6Se1LmnA1LJVUjBDoc7Euapb1ahNzY7ST-GUi4yW7RR4=s360-rw",
+            "enable": true,
+            "id": 1,
+            "message": "স্কুল ,কলেজ, বিশ্ববিদ্যালয় পরীক্ষা সময়সূচী, ফলাফল এবং তথ্য নোটিফিকেশন সুবিধা আছে ।",
+            "description": "Developer : Boolean Solution Technology",
+            "title": "Education Assistant"
+        },
+        {
+            "button_text": "Download",
             "appstore_url": "score.livebpl.bpllivescore",
             "playstore_url": "score.livebpl.bpllivescore",
             "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
