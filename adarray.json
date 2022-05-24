@@ -2,8 +2,8 @@
     "playstore_ads": [
         {
             "button_text": "Download",
-            "appstore_url": "com.bdcareerhelp.jobcircularpro",
-            "playstore_url": "com.bdcareerhelp.jobcircularpro",
+            "appstore_url": "app.codictech.muslimnamaztime",
+            "playstore_url": "app.codictech.muslimnamaztime",
             "image_url": "https://play-lh.googleusercontent.com/w_1SBbNBzfPzdroQoVLRKXUtGqe-x9GaR20wXB6bsjJlh4eeJCQp_vYNIOk0icKW4g=s180-rw",
             "enable": true,
             "id": 1,
