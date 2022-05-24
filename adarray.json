@@ -2,6 +2,16 @@
     "playstore_ads": [
         {
             "button_text": "Download",
+            "appstore_url": "com.bdcareerhelp.jobcircularpro",
+            "playstore_url": "com.bdcareerhelp.jobcircularpro",
+            "image_url": "https://play-lh.googleusercontent.com/jtySUQpI-NqVbkBpKgkHXVzuzZVUtqy2uzKjigtLl34t54lx_4nqz68rJzsdRZ8AGA=s180-rw",
+            "enable": true,
+            "id": 1,
+            "message": "অ্যাপটি সকল প্রকার আপত্তিকর ও আশালীন বিজ্ঞাপনমুক্ত। বিশ্বের সকল দেশের সারা বছরের নামাযের সময়সূচি,সাহরি ,ইফতারের সময়সূচী, সঠিক হিজরি ও বাংলা তারিখ,ডিজিটাল স্মার্ট তাসবিহ,কিবলা এবং নোটিফিকেশন সুবিধা সম্বলিত একটি পরিপূর্ণ ইসলামিক অ্যাপ",
+            "description": "Developer : Boolean Solution Technology",
+            "title": "Muslims Time"
+        },{
+            "button_text": "Download",
             "appstore_url": "com.booleansoft.anam.admissionresultbangladesh",
             "playstore_url": "com.booleansoft.anam.admissionresultbangladesh",
             "image_url": "https://play-lh.googleusercontent.com/k88eANjYzqeic1JiW8v4Z-R6Se1LmnA1LJVUjBDoc7Euapb1ahNzY7ST-GUi4yW7RR4=s360-rw",
@@ -13,17 +23,6 @@
         },
         {
             "button_text": "Download",
-            "appstore_url": "score.livebpl.bpllivescore",
-            "playstore_url": "score.livebpl.bpllivescore",
-            "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
-            "enable": true,
-            "id": 1,
-            "message": "Live Cricket Score,Live Cricket Schedule",
-            "description": "Developer : Boolean Solution Technology",
-            "title": "Live Cricket Score"
-        },
-        {
-            "button_text": "Download",
             "appstore_url": "com.bdcareerhelp.jobcircularpro",
             "playstore_url": "com.bdcareerhelp.jobcircularpro",
             "image_url": "https://play-lh.googleusercontent.com/jtySUQpI-NqVbkBpKgkHXVzuzZVUtqy2uzKjigtLl34t54lx_4nqz68rJzsdRZ8AGA=s380-rw",
@@ -32,6 +31,17 @@
             "message": "সকল চাকরির সার্কুলার, পরীক্ষার সময়সূচী, ফলাফল নোটিফিকেশন সহজ সাবলীলভাবে পাবেন।",
             "description": "Developer : Boolean Solution Technology",
             "title": "Job Circular Pro"
+        },
+        {
+            "button_text": "Download",
+            "appstore_url": "score.livebpl.bpllivescore",
+            "playstore_url": "score.livebpl.bpllivescore",
+            "image_url": "https://play-lh.googleusercontent.com/mWo4bLveWhqfvXPCf9-6xxcpjTtaVG3HY2cSzajdiKcDbari4Du6MgdenLZDM1pPqfI=s380-rw",
+            "enable": true,
+            "id": 1,
+            "message": "Live Cricket Score,Live Cricket Schedule",
+            "description": "Developer : Boolean Solution Technology",
+            "title": "Live Cricket Score"
         }
     ]
 }
